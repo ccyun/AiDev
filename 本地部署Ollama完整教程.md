@@ -199,7 +199,7 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 
 对话
 
-![](image/WX20240829-001702@2x.png)
+![](image/WX20240829-123007@2x.png)
 
 同时还只是导入GGUF模型，这样就省的编写Modelfile
 
